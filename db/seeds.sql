@@ -15,3 +15,7 @@ INSERT into role (title, salary, department_id) VALUES ("Joe Harris", 50000, 3);
 INSERT into role (title, salary, department_id) VALUES ("Celine Diane", 65000, 3);
 INSERT into role (title, salary, department_id) VALUES ("Counselor", 75000, 4);
 
+INSERT into employee (first_name, last_name, role_id, manager_id) VALUES ("Alex R.","Matterhorn Sr.", 1, null);
+INSERT into employee (first_name, last_name, role_id, manager_id) VALUES ("Brayan","Lopez", 2, 1);
+INSERT into employee (first_name, last_name, role_id, manager_id) VALUES ("Lisa","Smith", 2, 1);
+
