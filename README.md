@@ -9,8 +9,8 @@ Installation
 
 Steps 
 
-1.Run node employee-tracker.js to start the application
+1. Run node employee-tracker.js to start the application
 
-2.Select from the menu to view, add, remove, or update employees, roles, departments, or managers
+2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers
 
-3.Follow prompt if presented
+3. Follow prompt if presented
